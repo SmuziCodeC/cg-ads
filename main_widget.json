@@ -1,0 +1,22 @@
+{
+  "Apps": [
+    {
+      "Id": "com.chaloapps.shootersandbox",
+      "Name": "StrikeBox",
+      "UrlIOS": "https://apps.apple.com/us/app/strikebox-sandbox-shooter/id1435785527",
+      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.shootersandbox&hl=ru"
+    },
+    {
+      "Id": "com.chaloapps.roosterrudy",
+      "Name": "Chicken Gun",
+      "UrlIOS": "https://apps.apple.com/us/app/chicken-gun/id1453578838",
+      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.roosterrudy&hl=ru"
+    },
+    {
+      "Id": "com.chaloapps.memeswars2",
+      "Name": "Memes Wars 2",
+      "UrlIOS": "https://apps.apple.com/us/app/memes-wars/id1187721467",
+      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars2&hl=ru"
+    }
+  ]
+}
