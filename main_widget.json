@@ -20,6 +20,13 @@
       "UrlIOS": "https://apps.apple.com/us/app/memes-wars/id1187721467 ",
       "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars&hl=ru",
       "Icon": "https://raw.githubusercontent.com/SmuziCodeC/cg-ads/refs/heads/main/unnamed.png"
+    },
+    {
+      "Id": "com.chaloapps.memeswars2",
+      "Name": "Memes Wars 2",
+      "UrlIOS": "",
+      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars2&hl=ru",
+      "Icon": "https://apk-top.net/uploads/mini/fulls-pics/dae/6cb5329bb97ad95b5b31759ca5ed1.jpg"
     }
   ],
   "NewGame": {
