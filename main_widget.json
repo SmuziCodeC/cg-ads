@@ -31,8 +31,8 @@
   ],
   "NewGame": {
     "IsActive": true,
-    "Id": "com.chaloapps.roosterrudy",
-    "gameTitle": "Chicken Gun: Возрождение",
+    "Id": "com.chaloapps.roosterudy",
+    "gameTitle": "Тикингапн",
     "Description": "Шутер с песочницей и элементами RPG для детей от 5 до 12 лет. Постепенно умирает из-за читеров и токсичных игроков. Мы начинаем проект CG Revive — чтобы вернуть игру к жизни.",
     "Version": "4.7.03 (скоро 4.8.0)",
     "Developer": "ChaloApps, 2019–2025",
