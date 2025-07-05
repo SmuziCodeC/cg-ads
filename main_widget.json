@@ -5,6 +5,8 @@
       "Name": "StrikeBox",
       "UrlIOS": "https://apps.apple.com/us/app/strikebox-sandbox-shooter/id1435785527 ",
       "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.shootersandbox&hl=ru",
+      "v_and": 31,
+      "v_ios": 31,
       "Icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e0/1d/d2/e01dd230-a5ad-0dc3-7fd8-4add20b2f0b5/source/512x512bb.jpg"
     },
     {
@@ -12,6 +14,8 @@
       "Name": "Chicken Gun",
       "UrlIOS": "https://apps.apple.com/us/app/chicken-gun/id1453578838 ",
       "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.roosterrudy&hl=ru",
+      "v_and": 31,
+      "v_ios": 31,
       "Icon": "https://img.razrisyika.ru/kart/141/1200/560560-chikingan-dlya-detey-13.jpg"
     },
     {
@@ -19,6 +23,8 @@
       "Name": "Memes Wars",
       "UrlIOS": "https://apps.apple.com/us/app/memes-wars/id1187721467 ",
       "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars&hl=ru",
+      "v_and": 31,
+      "v_ios": 31,
       "Icon": "https://raw.githubusercontent.com/SmuziCodeC/cg-ads/refs/heads/main/unnamed.png"
     },
     {
@@ -26,6 +32,8 @@
       "Name": "Memes Wars 2",
       "UrlIOS": "",
       "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars2&hl=ru",
+      "v_and": 31,
+      "v_ios": 31,
       "Icon": "https://apk-top.net/uploads/mini/fulls-pics/dae/6cb5329bb97ad95b5b31759ca5ed1.jpg"
     }
   ],
