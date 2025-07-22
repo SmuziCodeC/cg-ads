@@ -1,51 +1,94 @@
 {
-  "Apps": [
-    {
-      "Id": "com.chaloapps.shootersandbox",
-      "Name": "StrikeBox",
-      "UrlIOS": "https://apps.apple.com/us/app/strikebox-sandbox-shooter/id1435785527 ",
-      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.shootersandbox&hl=ru",
-      "v_and": 31,
-      "v_ios": 31,
-      "Icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e0/1d/d2/e01dd230-a5ad-0dc3-7fd8-4add20b2f0b5/source/512x512bb.jpg"
-    },
-    {
-      "Id": "com.chaloapps.roosterrudy",
-      "Name": "Chicken Gun",
-      "UrlIOS": "https://apps.apple.com/us/app/chicken-gun/id1453578838 ",
-      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.roosterrudy&hl=ru",
-      "v_and": 31,
-      "v_ios": 31,
-      "Icon": "https://img.razrisyika.ru/kart/141/1200/560560-chikingan-dlya-detey-13.jpg"
-    },
-    {
-      "Id": "com.chaloapps.memeswars",
-      "Name": "Memes Wars",
-      "UrlIOS": "https://apps.apple.com/us/app/memes-wars/id1187721467 ",
-      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars&hl=ru",
-      "v_and": 31,
-      "v_ios": 31,
-      "Icon": "https://raw.githubusercontent.com/SmuziCodeC/cg-ads/refs/heads/main/unnamed.png"
-    },
-    {
-      "Id": "com.chaloapps.memeswars2",
-      "Name": "Memes Wars 2",
-      "UrlIOS": "",
-      "UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars2&hl=ru",
-      "v_and": 31,
-      "v_ios": 31,
-      "Icon": "https://apk-top.net/uploads/mini/fulls-pics/dae/6cb5329bb97ad95b5b31759ca5ed1.jpg"
-    }
-  ],
-  "NewGame": {
-    "IsActive": true,
-    "Id": "com.chaloapps.roosterudy",
-    "gameTitle": "Тикингапн",
-    "Description": "Шутер с песочницей и элементами RPG для детей от 5 до 12 лет. Постепенно умирает из-за читеров и токсичных игроков. Мы начинаем проект CG Revive — чтобы вернуть игру к жизни.",
-    "Version": "4.7.03 (скоро 4.8.0)",
-    "Developer": "ChaloApps, 2019–2025",
-    "AndroidUrl": "https://play.google.com/store/apps/details?id=com.chaloapps.roosterrudy&hl=ru",
-    "iOSUrl": " https://apps.apple.com/us/app/chicken-gun/id1453578838 "
-    "Image": "https://img.razrisyika.ru/kart/141/1200/560560-chikingan-dlya-detey-13.jpg",
-  }
+	"IsAdsActive": false,
+	"Apps": [
+		{
+			"Name": "MemesWars",
+			"Icon": "https://raw.githubusercontent.com/SmuziCodeC/cg-ads/refs/heads/main/unnamed.png",
+			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars",
+			"UrlIOS": "https://apps.apple.com/us/app/memes-wars/id1187721467?ls=1",
+			"Id": "com.chaloapps.memeswars",
+			"v_and": 48,
+			"v_ios": 46,
+			"AdsPeriod": 200,
+			"UadsAdmob_K": 0.52
+		},
+		{
+			"Name": "MemesWars2",
+			"Icon": "https://apk-top.net/uploads/mini/fulls-pics/dae/6cb5329bb97ad95b5b31759ca5ed1.jpg",
+			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.memeswars2",
+			"UrlIOS": "",
+			"Id": "com.chaloapps.memeswars2",
+			"v_and": 6,
+			"v_ios": 6,
+			"AdsPeriod": 159,
+			"UadsAdmob_K": 0.501
+		},
+		{
+			"Name": "BattleBox",
+			"Icon": "https://chalogames.com/AppData/Images/BattleBox.jpg",
+			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.battlebox",
+			"UrlIOS": "https://apps.apple.com/us/app/battlebox-online-sandbox/id1222335572?ls=1",
+			"Id": "com.chaloapps.battlebox",
+			"v_and": 31,
+			"v_ios": 31,
+			"AdsPeriod": 200
+		},
+		{
+			"Name": "StrikeBox",
+			"Icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e0/1d/d2/e01dd230-a5ad-0dc3-7fd8-4add20b2f0b5/source/512x512bb.jpg",
+			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.shootersandbox",
+			"UrlIOS": "https://itunes.apple.com/us/app/strikebox-team-fight-shooter/id1435785527?ls=1&mt=8",
+			"Id": "com.chaloapps.shootersandbox",
+			"v_and": 23,
+			"v_ios": 20,
+			"AdsPeriod": 180,
+			"UadsAdmob_K": 0.52
+		},
+		{
+			"Name": "PugWars",
+			"Icon": "https://chalogames.com/AppData/Images/TooBold2.0.jpg",
+			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.nudajeneznayu",
+			"UrlIOS": "",
+			"Id": "com.chaloapps.nudajeneznayu",
+			"v_and": 39,
+			"v_ios": 0,
+			"AdsPeriod": 190
+		},
+		{
+			"Name": "Chicken Gun",
+			"Icon": "https://img.razrisyika.ru/kart/141/1200/560560-chikingan-dlya-detey-13.jpg",
+			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.roosterrudy",
+			"UrlIOS": "https://itunes.apple.com/us/app/chickens-fight/id1453578838?ls=1&mt=8",
+			"Id": "com.chaloapps.roosterrudy",
+			"v_and": 52,
+			"v_ios": 52,
+			"AdsPeriod": 200,
+			"UadsAdmob_K": 0.99,
+			"UnityAdsEnabled": true,
+			"AdMobEnabled": true,
+			"AdsEnabledForCrashables": false
+		},
+		{
+			"Name": "StrikeFortressBox",
+			"Icon": "https://chalogames.com/AppData/Images/StrikeFortressBox.jpg",
+			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.strikefortressbox",
+			"UrlIOS": "https://apps.apple.com/us/app/strike-fortress-box-royale/id1481865009?ls=1",
+			"Id": "com.chaloapps.strikefortressbox",
+			"v_and": 24,
+			"v_ios": 24,
+			"AdsPeriod": 200,
+			"UadsAdmob_K": 0.52,
+			"UnityAdsEnabled": true,
+			"AdMobEnabled": true,
+			"AdsEnabledForCrashables": true
+		}
+	],
+	"NewGame": {
+		"Id": "com.chaloapps.strikefortressbox",
+		"IsActive": false,
+		"Image": "https://chalogames.com/AppData/NewGameBanners/ChickenGun.jpg",
+		"AndroidUrl": "https://play.google.com/store/apps/details?id=com.chaloapps.strikefortressbox",
+		"iOSUrl": "https://apps.apple.com/us/app/strike-fortress-box-royale/id1481865009?ls=1",
+		"gameTitle": "StrikeFortressBox"
+	},
 }
