@@ -25,7 +25,7 @@
 		},
 		{
 			"Name": "BattleBox",
-			"Icon": "https://chalogames.com/AppData/Images/BattleBox.jpg",
+			"Icon": "https://trashbox.ru/apk_icons/1902719_192.png",
 			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.battlebox",
 			"UrlIOS": "https://apps.apple.com/us/app/battlebox-online-sandbox/id1222335572?ls=1",
 			"Id": "com.chaloapps.battlebox",
@@ -46,7 +46,7 @@
 		},
 		{
 			"Name": "PugWars",
-			"Icon": "https://chalogames.com/AppData/Images/TooBold2.0.jpg",
+			"Icon": "https://raw.githubusercontent.com/SmuziCodeC/cg-ads/refs/heads/main/kikikik.webp",
 			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.nudajeneznayu",
 			"UrlIOS": "",
 			"Id": "com.chaloapps.nudajeneznayu",
@@ -70,7 +70,7 @@
 		},
 		{
 			"Name": "StrikeFortressBox",
-			"Icon": "https://chalogames.com/AppData/Images/StrikeFortressBox.jpg",
+			"Icon": "https://raw.githubusercontent.com/SmuziCodeC/cg-ads/refs/heads/main/kmkm.png",
 			"UrlAndroid": "https://play.google.com/store/apps/details?id=com.chaloapps.strikefortressbox",
 			"UrlIOS": "https://apps.apple.com/us/app/strike-fortress-box-royale/id1481865009?ls=1",
 			"Id": "com.chaloapps.strikefortressbox",
@@ -86,7 +86,7 @@
 	"NewGame": {
 		"Id": "com.chaloapps.strikefortressbox",
 		"IsActive": false,
-		"Image": "https://chalogames.com/AppData/NewGameBanners/ChickenGun.jpg",
+		"Image": "https://raw.githubusercontent.com/SmuziCodeC/cg-ads/refs/heads/main/kmkm.png",
 		"AndroidUrl": "https://play.google.com/store/apps/details?id=com.chaloapps.strikefortressbox",
 		"iOSUrl": "https://apps.apple.com/us/app/strike-fortress-box-royale/id1481865009?ls=1",
 		"gameTitle": "StrikeFortressBox"
